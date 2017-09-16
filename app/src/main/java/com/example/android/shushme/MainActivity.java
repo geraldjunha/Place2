@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity implements
             locationPermissions.setChecked(false);
         } else {
             locationPermissions.setChecked(true);
-            locationPermissions.setEnabled(false);
+            locationPermissions.setEnabled(true);
         }
     }
 
