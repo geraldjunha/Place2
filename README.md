@@ -1,5 +1,5 @@
 # ShushMe
-Google Places API demo app
+Google Places API demo app  
 
 ## Screenshots
 
